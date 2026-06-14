@@ -2,6 +2,16 @@
 
 This project implements a deterministic decision tree for a daily reflection system. The goal is to guide a user through a structured reflection about their day and provide meaningful insights based on their responses.
 
+## Features
+
+- Deterministic rule-based reflection system
+- Daily mood and productivity analysis
+- Challenge-aware reflection outputs
+- Guardrails to ensure predictable behavior
+- AI agent extension with keyword-based input handling
+- Structured and context-aware decision logic
+- Reliable outputs without generative AI
+
 ## Approach
 
 The system is built using a rule-based decision tree. It asks the user three key questions:
