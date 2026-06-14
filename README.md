@@ -91,5 +91,3 @@ Guardrails are implemented to ensure reliability:
 ### Daily Reflection Output
 
 ![Reflection Demo](reflection_demo.png)
-
-This approach maintains control while improving usability.
