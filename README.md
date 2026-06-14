@@ -86,4 +86,10 @@ Guardrails are implemented to ensure reliability:
 - No free-form generation is used
 - Outputs remain deterministic
 
+## Demo
+
+### Daily Reflection Output
+
+![Reflection Demo](reflection_demo.png)
+
 This approach maintains control while improving usability.
