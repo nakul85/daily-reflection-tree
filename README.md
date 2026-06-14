@@ -55,6 +55,24 @@ Run the AI agent extension:
 python agent_reflection.py
 ```
 
+## Example Interaction
+
+### Deterministic Reflection System
+
+**Input:**
+
+- Mood: Good
+- Productivity: High
+- Challenge: Time Management
+
+**Output:**
+
+```text
+You had a productive day with a positive mindset.
+Although you managed your tasks well, improving time management could help reduce stress and increase efficiency.
+Keep building on today's momentum.
+```
+
 ## Conclusion
 
 This implementation demonstrates how a simple deterministic system can provide structured and meaningful reflections. It ensures clarity, consistency, and reliability without relying on generative AI.
