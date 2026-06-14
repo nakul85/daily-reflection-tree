@@ -34,6 +34,27 @@ To reduce ambiguity and avoid unreliable outputs:
 - No probabilistic or AI-based responses are used
 - All outputs are predefined and predictable
 
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/nakul85/daily-reflection-tree.git
+cd daily-reflection-tree
+```
+
+Run the deterministic decision tree:
+
+```bash
+python daily_reflection.py
+```
+
+Run the AI agent extension:
+
+```bash
+python agent_reflection.py
+```
+
 ## Conclusion
 
 This implementation demonstrates how a simple deterministic system can provide structured and meaningful reflections. It ensures clarity, consistency, and reliability without relying on generative AI.
