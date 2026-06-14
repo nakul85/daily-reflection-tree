@@ -1,4 +1,4 @@
-# Daily Reflection Decision Tree
+# AI-Powered Daily Reflection System with Deterministic Decision Trees and Guardrails
 
 This project implements a deterministic decision tree for a daily reflection system. The goal is to guide a user through a structured reflection about their day and provide meaningful insights based on their responses.
 
@@ -91,3 +91,10 @@ Guardrails are implemented to ensure reliability:
 ### Daily Reflection Output
 
 ![Reflection Demo](reflection_demo.png)
+
+## Tech Stack
+
+- Python
+- Rule-Based Decision Trees
+- Keyword Matching
+- Command-Line Interface (CLI)
